@@ -1,5 +1,5 @@
 # CRUD-Node-Vue
-Este es un crud realizado con Node JS y Vue2 este esta construido con la arquitectura Clean architecture  y en lenguaje TypeScript, este tambien contiene la exportación/importación de Excel y el generar PDF.
+Este es un CRUD construido con Node.js y Vue 2, utilizando la arquitectura limpia (Clean Architecture) y escrito en TypeScript. Además de las operaciones básicas de CRUD, incluye funcionalidades como la exportación/importación de datos en formato Excel y la generación de archivos PDF.
 
 # Node-cli-ts
 Instala el node modules `⚠️ **Advertencia:** Recuerda que debe ser dentro de la carpeta.`
